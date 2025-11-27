@@ -1,0 +1,6 @@
+model,r2,rmse,mae
+Lasso,0.9526,13.4791,3.1012
+LinearRegression,0.9526,13.4792,3.1046
+Ridge,0.9526,13.4792,3.1046
+GradientBoosting,0.9522,13.5344,3.6972
+RandomForest,0.9501,13.834,3.5333
